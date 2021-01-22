@@ -1,0 +1,46 @@
+#cabecerawed{
+    /* width:500px; */
+    /* text-align: center; */
+    background-color: rgb(10, 34, 252);
+    /* padding: 15px; */
+    /* margin: 15px auto; */
+    /* border: 3px solid black; */
+    /* border-radius: 15px; */
+    /* font:bold 15px Verdana; */
+    /* box-shadow: darkgray 5px 10px 10px; */
+}
+
+@font-face{
+    font-family:'mifuente' Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#navegadorprincipal{
+    background-color: crimson;
+}
+
+
+#barralateral{
+    background-color: darkgreen;
+    float: left;
+    height: 905px;
+}
+
+
+#contenidoprincipal{
+    background-color: darkorchid;
+    margin-left: 190px;
+    padding-left: 15px;
+    padding-top: 1px;
+}
+
+
+#pieprincipal{
+    background: darkgoldenrod;
+    clear: both;
+}
+
+li{
+    background-color: darkgoldenrod;
+    display:inline
+}
